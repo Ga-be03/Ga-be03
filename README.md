@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel!
 
-<!--
-**Ga-be03/Ga-be03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🧏‍♂️ Pessoa surda apaixonado por tecnologia, inclusão e pessoas  
+💻 Desenvolvedor Frontend  
+🧠 Interessado também na área de Recursos Humanos, com olhar voltado para empatia, comunicação e desenvolvimento humano
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Tenho 22 anos, moro em São Bernardo do Campo (SP) e acredito que a tecnologia deve ser feita **por pessoas e para pessoas**.  
+Minha paixão pelo Frontend vem da vontade de criar experiências visuais. 
+Ao mesmo tempo, me interesso por RH porque acredito no poder da escuta, da diversidade e do crescimento coletivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- HTML, CSS, JavaScript
+- React (em aprendizado)
+- Acessibilidade Web
+
+## 📫 Contato
+- 📧 gabrielsilva2003a3@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-silva-b995251a4)
