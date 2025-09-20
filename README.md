@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Gabriel!
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Estudante Técnico e formado em Análise e Desenvolvimento de Sistemas
+🎓 Estudante Bacharelado em Administração
 🧏‍♂️ Pessoa surda apaixonado por tecnologia, inclusão e pessoas  
 💻 Desenvolvedor Frontend  
 🧠 Interessado também na área de Recursos Humanos, com olhar voltado para empatia, comunicação e desenvolvimento humano
@@ -12,8 +13,6 @@ Ao mesmo tempo, me interesso por RH porque acredito no poder da escuta, da diver
 
 ## 🛠️ Tecnologias
 - HTML, CSS, JavaScript
-- React (em aprendizado)
-- Acessibilidade Web
 
 ## 📫 Contato
 - 📧 gabrielsilva2003a3@gmail.com  
