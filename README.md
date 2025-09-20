@@ -32,7 +32,7 @@ Ao mesmo tempo, me interesso por RH porque acredito no poder da escuta, da diver
          style="max-width: 100%;">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/iw2099/" rel="nofollow">
+  <a href="https://www.instagram.com/biel2099iw/" rel="nofollow">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" 
          alt="INSTAGRAM" 
          style="max-width: 100%;">
