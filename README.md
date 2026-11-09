@@ -7,7 +7,7 @@
 🧠 Interessado também na área de Recursos Humanos, com olhar voltado para empatia, comunicação e desenvolvimento humano
 
 ## 🚀 Sobre mim
-Tenho 22 anos, moro em São Bernardo do Campo (SP) e acredito que a tecnologia deve ser feita **por pessoas e para pessoas**.  
+Tenho 23 anos, moro em São Bernardo do Campo (SP) e acredito que a tecnologia deve ser feita **por pessoas e para pessoas**.  
 Minha paixão pelo Frontend vem da vontade de criar experiências visuais. 
 Ao mesmo tempo, me interesso por RH porque acredito no poder da escuta, da diversidade e do crescimento coletivo.
 
